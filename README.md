@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on fintech projects 
 - 📫 you can reach me on watsapp +263771586730
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 anywaymarufu/anywaymarufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
